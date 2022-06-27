@@ -1,4 +1,4 @@
-# Proyecto_Laberinto_Paradigmas_Programacion
+# Proyecto Laberinto Versión Final || Paradigmas de Programacion
 
 - Geraldine Gómez Romero
 
